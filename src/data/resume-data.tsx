@@ -147,7 +147,7 @@ export const RESUME_DATA = {
       logo: MonitoLogo,
       link: {
         label: "Spontacts",
-        href: "https://www.spontacts.de"
+        href: "https://www.spontacts.com"
       },
     },
     {
