@@ -31,7 +31,6 @@ export const RESUME_DATA = {
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
   contact: {
     email: "leon.fuessner@hotmail.de",
-    tel: "+4915787069872",
     social: [
       {
         name: "GitHub",
@@ -100,7 +99,7 @@ export const RESUME_DATA = {
     },
     {
       company: "Spontacts GmbH (Formerly company of Jochen Schweizer)",
-      link: "https://www.spontacts.de/",
+      link: "https://www.spontacts.com/",
       badges: [],
       title: "Android Developer (still in apprenticeship)",
       logo: JojoMobileLogo,
