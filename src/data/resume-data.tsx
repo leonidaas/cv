@@ -23,7 +23,7 @@ export const RESUME_DATA = {
   name: "Leon Füßner",
   initials: "LF",
   location: "Munich, Germany, CET",
-  locationLink: "https://www.google.com/maps/place/Wrocław",
+  locationLink: "https://www.google.com/maps/place/munich",
   about:
     "Mobile Developer with experience in Frontend & Backend",
   summary:
@@ -73,7 +73,7 @@ export const RESUME_DATA = {
       start: "start 2023",
       end: "now",
       description:
-        "Worked on the Android App for Stihl iMow",
+        "Working for different clients including STIHL",
     },
     {
       company: "Droid-Dojo - Angelo Rüggeberg - Freelancer",
