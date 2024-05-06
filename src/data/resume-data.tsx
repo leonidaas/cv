@@ -54,7 +54,7 @@ export const RESUME_DATA = {
       school: "Ludwigs-Maximilians-Universität München",
       degree: "Bachelor's Degree in Computer Science",
       start: "2021",
-      end: "2025",
+      end: "2024",
     },
     {
       school: "Berufschule für Informatik München",
