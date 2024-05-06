@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Munich, Germany, CET",
   locationLink: "https://www.google.com/maps/place/munich",
   about:
-    "Mobile Developer with experience in Frontend & Backend",
+    "Software Developer with experience in Frontend & Backend. Experience with C++, Java, Kotlin, 3D Programming",
   summary:
     "I have worked on several products of different sizes with a lot of different people and I enjoy creating helpful products for the customer which enriches their lives. I always want to learn something new.",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
@@ -129,6 +129,35 @@ export const RESUME_DATA = {
     "Java"
   ],
   projects: [
+    {
+      title: "Game ",
+      techStack: ["Side project", "C++", "x64dbg", "Cheat Engine"],
+      description:
+        "Reversed engineered CS2 and implemented a helper tool",
+      logo: MonitoLogo,
+    },
+    {
+      title: "BMW",
+      techStack: ["Work Project", "Swift", "SwiftUI", "Apple Vision Pro"],
+      description:
+        "3D VR/AR programming and prototyping for BMW",
+      logo: MonitoLogo,
+      link: {
+        label: "BMW",
+        href: "https://www.bmw.de"
+      },
+    },
+    {
+      title: "Stihl",
+      techStack: ["Work Project", "Kotlin", "Jetpack Compose"],
+      description:
+        "iMOW Android Client",
+      logo: MonitoLogo,
+      link: {
+        label: "iMOW",
+        href: "https://www.stihl.de"
+      },
+    },
     {
       title: "RoboRally",
       techStack: [
