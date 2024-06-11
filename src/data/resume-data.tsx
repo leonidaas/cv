@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Software Developer with experience in Frontend & Backend. Experience with C++, Java, Kotlin, 3D Programming",
   summary:
-    "I have worked on several products of different sizes with a lot of different people and I enjoy creating helpful products for the customer which enriches their lives. I always want to learn something new.",
+    "I have worked on several products of different sizes with a lot of different people and I enjoy creating helpful products for the customer which enriches their lives. I always want to learn something new with an interest in Health and Technology",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
   contact: {
     email: "leon.fuessner@hotmail.de",
@@ -54,7 +54,13 @@ export const RESUME_DATA = {
       school: "Ludwigs-Maximilians-Universität München",
       degree: "Bachelor's Degree in Computer Science",
       start: "2021",
-      end: "2024",
+      end: "2024"
+    },
+    {
+      school: "Universidad de Sevilla",
+      degree: "BS in Computer Science - Exchange Semester",
+      start: "2023", 
+      end: "2024"
     },
     {
       school: "Berufschule für Informatik München",
@@ -73,7 +79,7 @@ export const RESUME_DATA = {
       start: "start 2023",
       end: "now",
       description:
-        "Working for different clients including STIHL",
+        "Working for different clients including STIHL and BMW",
     },
     {
       company: "Droid-Dojo - Angelo Rüggeberg - Freelancer",
@@ -120,20 +126,23 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    "Swift",
+    "SwiftUI",
+    "VisionOS",
     "Kotlin",
+    "C++",
+    "Java",
     "Jetpack Compose",
     "SQL",
     "GraphQL",
     "NodeJS",
-    "C++",
-    "Java"
   ],
   projects: [
     {
-      title: "Game ",
+      title: "Game Memory Manipulation",
       techStack: ["Side project", "C++", "x64dbg", "Cheat Engine"],
       description:
-        "Reversed engineered CS2 and implemented a helper tool",
+        "Reversed engineered CS2 and implemented a helper tool which reads and writes memory",
       logo: MonitoLogo,
     },
     {
