@@ -74,7 +74,7 @@ export const RESUME_DATA = {
       company: "MaibornWolff GmbH",
       link: "https://www.maibornwolff.de",
       badges: [],
-      title: "Android Developer",
+      title: "Software Developer",
       logo: ParabolLogo,
       start: "start 2023",
       end: "now",
