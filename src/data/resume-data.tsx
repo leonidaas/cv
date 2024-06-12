@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Munich, Germany, CET",
   locationLink: "https://www.google.com/maps/place/munich",
   about:
-    "Software Developer with experience in Frontend & Backend. Experience with C++, Java, Kotlin, 3D Programming",
+    "Professional Software Developer. Experience with C++, Swift, Kotlin, 3D Programming",
   summary:
-    "I have worked on several products of different sizes with a lot of different people and I enjoy creating helpful products for the customer which enriches their lives. I always want to learn something new with an interest in Health and Technology",
+    "Worked on a variety of products, both large and small, with diverse teams has been a rewarding experience. Driven by a continuous desire to learn and explore new areas, particularly in health and technology.",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
   contact: {
     email: "leon.fuessner@hotmail.de",
@@ -157,7 +157,7 @@ export const RESUME_DATA = {
       },
     },
     {
-      title: "Stihl",
+      title: "STIHL",
       techStack: ["Work Project", "Kotlin", "Jetpack Compose"],
       description:
         "iMOW Android Client",
