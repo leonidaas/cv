@@ -27,7 +27,7 @@ export const RESUME_DATA = {
   about:
     "Professional Software Developer. Experience with C++, Swift, Kotlin, 3D Programming",
   summary:
-    "Worked on a variety of products, both large and small, with diverse teams has been a rewarding experience. Driven by a continuous desire to learn and explore new areas, particularly in health and technology.",
+    "Working on a variety of products, both large and small, with diverse teams has been a rewarding experience. I enjoy creating helpful products for the customer which enriches their lives. Driven by a continuous desire to learn and explore new areas, particularly in health and technology.",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
   contact: {
     email: "leon.fuessner@hotmail.de",
