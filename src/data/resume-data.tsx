@@ -149,7 +149,7 @@ export const RESUME_DATA = {
     "Swift",
     "SwiftUI",
     "VisionOS",
-    "Unreal Engine"
+    "Unreal Engine",
     "Java",
     "SQL",
     "GraphQL",
