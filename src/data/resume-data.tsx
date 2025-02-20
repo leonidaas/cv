@@ -20,7 +20,7 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Leon Fuesner",
+  name: "Leon Fuessner",
   initials: "LF",
   location: "Brisbane, Australia",
   locationLink: "https://www.google.com/maps/place/brisbane",
