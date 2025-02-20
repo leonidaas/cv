@@ -20,12 +20,12 @@ import {
 import { GitHubIcon, LinkedInIcon, XIcon } from "@/components/icons";
 
 export const RESUME_DATA = {
-  name: "Leon Füßner",
+  name: "Leon Fuesner",
   initials: "LF",
-  location: "Munich, Germany, CET",
-  locationLink: "https://www.google.com/maps/place/munich",
+  location: "Brisbane, Australia",
+  locationLink: "https://www.google.com/maps/place/brisbane",
   about:
-    "Professional Software Developer. Experience with C++, Swift, Kotlin, 3D Programming",
+    "Professional Software Developer from Germany. Experience with C++, Swift, Kotlin, 3D Programming",
   summary:
     "Working on a variety of projects, both large and small, with diverse teams has been a rewarding experience. I enjoy creating helpful solutions for customers, which enrich their lives. Driven by a continuous desire to learn and explore new areas, particularly in health and technology.",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
@@ -51,6 +51,12 @@ export const RESUME_DATA = {
   },
   education: [
     {
+      school: "Queensland University of Technology",
+      degree: "Bachelor's thesis in Computer Science - Road Safety",
+      start: "2025",
+      end: "2025"
+    },
+    {
       school: "Ludwigs-Maximilians-Universität München",
       degree: "Bachelor's Degree in Computer Science",
       start: "2021",
@@ -71,15 +77,26 @@ export const RESUME_DATA = {
   ],
   work: [
     {
+      company: "Queensland University of Technology",
+      link: "https://www.maibornwolff.de",
+      badges: [],
+      title: "Software Developer and Research Assistant",
+      logo: ParabolLogo,
+      start: "start 2025",
+      end: "now",
+      description:
+        "Researching VR/AR solutions at the Road Safety Department to prevent car accidents",
+    },
+    {
       company: "MaibornWolff GmbH",
       link: "https://www.maibornwolff.de",
       badges: [],
       title: "Software Developer",
       logo: ParabolLogo,
       start: "start 2023",
-      end: "now",
+      end: "start 2025",
       description:
-        "Working for different clients including STIHL and BMW",
+        "Worked for different clients including STIHL and BMW",
     },
     {
       company: "Droid-Dojo - Angelo Rüggeberg - Freelancer",
@@ -126,13 +143,14 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    "Kotlin",
+    "Jetpack Compose",
+    "C++",
     "Swift",
     "SwiftUI",
     "VisionOS",
-    "Kotlin",
-    "C++",
+    "Unreal Engine"
     "Java",
-    "Jetpack Compose",
     "SQL",
     "GraphQL",
     "NodeJS",
@@ -147,7 +165,7 @@ export const RESUME_DATA = {
     },
     {
       title: "BMW",
-      techStack: ["Work Project", "Swift", "SwiftUI", "Apple Vision Pro"],
+      techStack: ["Work Project", "Swift", "SwiftUI", "Apple Vision Pro", "Unreal Engine", "Meta Quest Pro"],
       description:
         "3D VR/AR programming and prototyping for BMW",
       logo: MonitoLogo,
