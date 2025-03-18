@@ -25,7 +25,7 @@ export const RESUME_DATA = {
   location: "Brisbane, Australia",
   locationLink: "https://www.google.com/maps/place/brisbane",
   about:
-    "Professional Software Developer from Germany. Experience with C++, Swift, Kotlin, 3D Programming",
+    "Professional Software Developer from Germany. Experience with Kotlin, C++ and 3D Programming",
   summary:
     "Working on a variety of projects, both large and small, with diverse teams has been a rewarding experience. I enjoy creating helpful solutions for customers, which enrich their lives. Driven by a continuous desire to learn and explore new areas, particularly in health and technology.",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
@@ -143,8 +143,12 @@ export const RESUME_DATA = {
     },
   ],
   skills: [
+    "Android",
     "Kotlin",
     "Jetpack Compose",
+    "Room",
+    "Hilt",
+    "Retrofit",
     "C++",
     "Swift",
     "SwiftUI",
@@ -154,6 +158,7 @@ export const RESUME_DATA = {
     "SQL",
     "GraphQL",
     "NodeJS",
+        "GIT"
   ],
   projects: [
     {
@@ -226,17 +231,6 @@ export const RESUME_DATA = {
       link: {
         label: "myposter",
         href: "https://myposter.de/",
-      },
-    },
-    {
-      title: "Manuel Buschendorf",
-      techStack: ["Side Project", "Wordpress", "PHP"],
-      description:
-        "Website for a professional sports photographer",
-      logo: BarepapersLogo,
-      link: {
-        label: "manuelbuschendorf.com",
-        href: "https://manuelbuschendorf.com/",
       },
     },
   ],
