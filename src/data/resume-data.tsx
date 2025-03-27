@@ -25,9 +25,9 @@ export const RESUME_DATA = {
   location: "Brisbane, Australia",
   locationLink: "https://www.google.com/maps/place/brisbane",
   about:
-    "Professional Software Developer from Germany. Experience with Kotlin, C++ and 3D Programming",
+    "Professional Mobile Developer from Germany. Experience with Kotlin, C++ and 3D Programming",
   summary:
-    "Working on a variety of projects, both large and small, with diverse teams has been a rewarding experience. I enjoy creating helpful solutions for customers, which enrich their lives. Driven by a continuous desire to learn and explore new areas, particularly in health and technology.",
+    "I've had the chance to work on all kinds of projects with different teams, and I love the challenge of creating solutions that actually make a difference for people. I'm always up for new adventures, looking for better, more efficient ways to build things. Always open to new challenges and adventures, I emphasize clean architecture, scalability, and testability to build robust and maintainable solutions.",
   avatarUrl: "https://avatars.githubusercontent.com/u/34339014?v=4",
   contact: {
     email: "leon.fuessner@hotmail.de",
@@ -70,7 +70,7 @@ export const RESUME_DATA = {
     },
     {
       school: "Berufschule für Informatik München",
-      degree: "Fachinformatiker Anwendungsentwicklung",
+      degree: "(Apprenticeship) Fachinformatiker Anwendungsentwicklung",
       start: "2017",
       end: "2020"
     }
@@ -96,7 +96,7 @@ export const RESUME_DATA = {
       start: "start 2023",
       end: "start 2025",
       description:
-        "Worked for different clients including STIHL and BMW",
+        "Developed apps for clients such as STIHL and BMW.",
     },
     {
       company: "Droid-Dojo - Angelo Rüggeberg - Freelancer",
@@ -107,7 +107,7 @@ export const RESUME_DATA = {
       start: "end 2021",
       end: "start 2023",
       description:
-        "Worked for various clients including Deutsche Bahn, Joyn and a private project fully in Compose",
+        "Worked on projects for various clients, including Deutsche Bahn, Joyn, and a private project developed entirely with Jetpack Compose.",
     },
     {
       company: "myposter GmbH",
@@ -118,18 +118,18 @@ export const RESUME_DATA = {
       start: "mid 2020",
       end: "end 2021",
       description:
-        "Created several features in the Android App in a dev team of two.",
+        "Developed multiple features for the Android app as part of a two-person dev team. Initially built with RxJava2, later refactored to coroutines in a multi-module architecture.",
     },
     {
       company: "Spontacts GmbH (Formerly company of Jochen Schweizer)",
       link: "https://www.spontacts.com/",
       badges: [],
-      title: "Android Developer (still in apprenticeship)",
+      title: "Android Developer",
       logo: JojoMobileLogo,
       start: "2019",
       end: "mid 2020",
       description:
-        "Jochen Schweizer Mobile Team took over the Spontacts Apps with around 100k MAU and refactored it to Kotlin and GraphQL. Implemented a new Group Feature.",
+        "The Jochen Schweizer Mobile Team took over the Spontacts app, which had around 100k MAU, and refactored it to Kotlin and GraphQL while implementing a new Group feature.",
     },
     {
       company: "Jochen Schweizer Technology Solutions GmbH",
@@ -139,7 +139,7 @@ export const RESUME_DATA = {
       logo: NSNLogo,
       start: "2017",
       end: "2020",
-      description: "Apprenticeship Software Developer - started on a Web Project and later on switched to the mobile team",
+      description: "Completed an apprenticeship as a Software Developer, initially working on a web project before transitioning to the mobile team.",
     },
   ],
   skills: [
@@ -158,7 +158,7 @@ export const RESUME_DATA = {
     "SQL",
     "GraphQL",
     "NodeJS",
-        "GIT"
+    "GIT"
   ],
   projects: [
     {
@@ -181,9 +181,9 @@ export const RESUME_DATA = {
     },
     {
       title: "STIHL",
-      techStack: ["Work Project", "Kotlin", "Jetpack Compose"],
+      techStack: ["Work Project", "Kotlin", "Jetpack Compose", "XML Views", "Koin", "MVVM", "Room", "Retrofit", "Coroutines", "Espresso", "JUnit", "CI/CD", "Azure"],
       description:
-        "iMOW Android Client",
+        "Developed the iMOW Android client, an app for controlling STIHL robotic lawn mowers. Implemented features for remote operation, scheduling, and status monitoring.",
       logo: MonitoLogo,
       link: {
         label: "iMOW",
@@ -202,9 +202,9 @@ export const RESUME_DATA = {
     },
     {
       title: "Spontacts Android App",
-      techStack: ["Work Project", "Java", "Kotlin", "GraphQL", "NodeJS"],
+      techStack: ["Work Project", "Java", "Kotlin", "GraphQL", "NodeJS", "Firebase", "DataBinding", "MVVM", "XML Views"],
       description:
-        "Android App for meeting new people with same interests",
+        "A platform for connecting people with shared interests",
       logo: MonitoLogo,
       link: {
         label: "Spontacts",
@@ -213,9 +213,9 @@ export const RESUME_DATA = {
     },
     {
       title: "Jochen Schweizer",
-      techStack: ["Work Project", "Java", "Kotlin"],
+      techStack: ["Work Project", "Java", "Kotlin", "MVC", "Dagger", "XML Views"],
       description:
-        "Android App for the Jochen Schweizer Shop with an voucher management",
+        "Developed an Android app for the Jochen Schweizer shop, including a voucher management system.",
       logo: JarockiMeLogo,
       link: {
         label: "Jochen Schweizer",
@@ -224,9 +224,9 @@ export const RESUME_DATA = {
     },
     {
       title: "myposter Android",
-      techStack: ["Work Project", "Kotlin", "Python"],
+      techStack: ["Work Project", "Kotlin", "Python", "RxJava2", "MVVM", "Multi Module App"],
       description:
-        "Android App for the myposter shop with Photobook/Calendar creator tools",
+        "Developed an Android app for the myposter shop, featuring photobook and calendar creation tools. Built a smart photo album creator service using Python.",
       logo: Minimal,
       link: {
         label: "myposter",
